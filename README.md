@@ -2,7 +2,7 @@
 
 A curious mind obsessed with AI, machine learning, and turning code into real-world magic. Building smarter tech, one algorithm at a time. 🌟
 
-👨‍💻 **About Me**
+### 👨‍💻 **About Me**
 🤖 **Exploring** | Learning the ropes of Generative AI and experimenting with AWS tools to build smart systems.
 
 🌱 **Growing** | Actively expanding my knowledge in Machine Learning, Deep Learning, and backend development.
@@ -11,21 +11,21 @@ A curious mind obsessed with AI, machine learning, and turning code into real-wo
 
 🎓 **Background** | Fresh Computer Science graduate with a solid foundation in programming, OOP, and problem-solving.
 
-⚡ **Skills & Tech Stack**
+### ⚡ **Skills & Tech Stack**
 
 👨💻 **Languages**
 Python · PHP · SQL
 
-🔧 **Frameworks & Libraries**
+### 🔧 **Frameworks & Libraries**
 TensorFlow · Scikit-Learn · Laravel
 
 🗃️ **Databases**
 MySQL · PostgreSQL
 
-🛠️ **Tools & Platforms**
+### 🛠️ **Tools & Platforms**
 AWS SageMaker · Jupyter Notebooks · Git
 
-🧠 **What I’m Learning**
+### 🧠 **What I’m Learning**
 
 **AI/ML Basics:** Model training, reinforcement learning, and generative AI concepts.
 
@@ -37,4 +37,11 @@ AWS SageMaker · Jupyter Notebooks · Git
 
 **Backend Development:** Building simple APIs and systems with Laravel.
 
-# IkramAlgo
+### 📫 **Connect with Me**  
+Let’s collaborate or chat about tech! Feel free to reach out:
+
+**LinkedIn**: [Ikram Khan](https://www.linkedin.com/in/ikramkhan101)  
+**Email**: [developmentkram@gmail.com](mailto:developmentkram@gmail.com)
+
+  *If you’d like to collaborate, discuss ideas, or just say hi, I’d love to hear from you!* 😊
+  
