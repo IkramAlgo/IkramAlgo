@@ -25,11 +25,11 @@ MySQL · PostgreSQL
 🛠️ **Tools & Platforms**
 AWS SageMaker · Jupyter Notebooks · Git
 
-🧠** What I’m Learning**
+🧠 **What I’m Learning**
 
 **AI/ML Basics:** Model training, reinforcement learning, and generative AI concepts.
 
-**Deep Learning: ** Exploring neural networks and their applications.
+**Deep Learning:** Exploring neural networks and their applications.
 
 **OOP:** Applying object-oriented programming principles to write clean and reusable code.
 
