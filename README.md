@@ -30,7 +30,7 @@ A passionate **AI & Data Science Enthusiast** with a background in **Machine Lea
 
 ## 📬 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ikramkhan)  
-[![Email](https://img.shields.io/badge/Email-ikram.algo@gmail.com-red?style=flat&logo=gmail)](mailto:ikram.algo@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-ikram.algo@gmail.com-red?style=flat&logo=gmail)](mailto:developerikram@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/923080047065)  
 
 ---
