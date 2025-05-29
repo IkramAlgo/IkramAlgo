@@ -13,18 +13,19 @@ A passionate **AI & Data Science Enthusiast** with a background in **Machine Lea
 ---
 
 ## 🛠️ **Skills & Technologies**
-- **Languages:** Python, SQL, PHP  
+- **Languages:** Python, JS
 - **AI/ML Tools:** TensorFlow, Scikit-Learn, Pandas, NumPy  
 - **Cloud & DevOps:** AWS SageMaker, Git, Docker  
 - **Databases:** MySQL, PostgreSQL  
-- **Web Frameworks:** Laravel, Flask  
+- **Web Frameworks:** Django, FastAPI, FlaskAPI
 
 ---
 
 ## 📂 **Projects**
 🔹 **Autonomous Driving Model** – Developed an AI-based reinforcement learning model using **AWS DeepRacer**.  
 🔹 **Domain-Specific AI Model** – Fine-tuned a **Meta Llama 2 7B** model for medical applications.  
-🔹 **Attendance Management System** – Backend developer for a **Laravel-based** attendance system.  
+🔹 **Face Recognation Attendance Management System** – Backend developer for a **Python and Computer Vision based** attendance system.
+🔹 **Full Featured Web App** - Built with Python, Django, FastAPI and Flask.
 
 ---
 
