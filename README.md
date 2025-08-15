@@ -1,6 +1,4 @@
-### 👋 Hey there, I'm Ikram Khan!  
-A passionate **AI & Data Science Enthusiast** with a background in **Machine Learning, Generative AI, and Backend Development**. Always eager to learn, innovate, and collaborate on exciting projects.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=University+of+the+Punjab;Machine+Learning+%7C+AI+%7C+Data+Science;Ikram+Ullah+Khan)](https://git.io/typing-svg)
 ---
 
 ## 📌 **About Me**
