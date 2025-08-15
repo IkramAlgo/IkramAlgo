@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=University+of+the+Punjab;Machine+Learning+%7C+AI+%7C+Data+Science;Ikram+Ullah+Khan)](https://git.io/typing-svg)
 ---
 
-## 📌 **About Me**
+## 💫 **About Me**
 I am a Computer Science graduate and AI Engineer with hands-on experience in building and deploying AI solutions, including LLM-powered applications, voice assistants, and predictive analytics using AWS SageMaker. I enjoy working on projects that combine cutting-edge AI technologies with real-world applications. Currently, I am focusing on improving AI product performance and exploring new applications of generative AI. I am always eager to collaborate on AI and machine learning projects. For any queries or collaboration, feel free to reach out via email. 
 
 ---
