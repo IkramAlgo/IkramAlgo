@@ -2,11 +2,7 @@
 ---
 
 ## 📌 **About Me**
-- 🎓 **Computer Science Graduate** from University of the Punjab.  
-- 🤖 Currently working on **AI & Data Science** projects, including fine-tuning LLMs.  
-- 🚀 Passionate about **Deep Learning, Machine Learning, and Generative AI**.  
-- 🔍 Exploring **AWS SageMaker, TensorFlow, and NLP models**.  
-- 🏆 Certified in **Generative AI with AWS Nanodegree & AWS DeepRacer ML**.  
+I am a Computer Science graduate and AI Engineer with hands-on experience in building and deploying AI solutions, including LLM-powered applications, voice assistants, and predictive analytics using AWS SageMaker. I enjoy working on projects that combine cutting-edge AI technologies with real-world applications. Currently, I am focusing on improving AI product performance and exploring new applications of generative AI. I am always eager to collaborate on AI and machine learning projects. For any queries or collaboration, feel free to reach out via email. 
 
 ---
 
