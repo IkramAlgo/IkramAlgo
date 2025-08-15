@@ -7,11 +7,11 @@ I am a Computer Science graduate and AI Engineer with hands-on experience in bui
 ---
 
 ## 🛠️ **Skills & Technologies**
-- **Languages:** Python, JS
-- **AI/ML Tools:** TensorFlow, Scikit-Learn, Pandas, NumPy  
-- **Cloud & DevOps:** AWS SageMaker, Git, Docker  
-- **Databases:** MySQL, PostgreSQL  
-- **Web Frameworks:** Django, FastAPI, FlaskAPI
+- **Languages:** Python (NumPy, Pandas, Plotly), JavaScript
+- **AI/ML Tools:** TensorFlow, PyTorch, Scikit-Learn, Hugging Face & Transformers, LangChain, OpenCV, DeepFace
+- **Web Frameworks:** Flask, FastAPI, Django
+- **Cloud & DevOps:** AWS (Bedrock, Lambda, S3, SageMaker), Git & GitHub, Docker
+- **Databases:** MySQL, PostgreSQL
 
 ---
 
