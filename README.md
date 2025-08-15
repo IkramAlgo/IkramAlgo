@@ -16,10 +16,14 @@ I am a Computer Science graduate and AI Engineer with hands-on experience in bui
 ---
 
 ## 📂 **Projects**
-🔹 **Autonomous Driving Model** – Developed an AI-based reinforcement learning model using **AWS DeepRacer**.  
-🔹 **Domain-Specific AI Model** – Fine-tuned a **Meta Llama 2 7B** model for medical applications.  
-🔹 **Face Recognation Attendance Management System** – Backend developer for a **Python and Computer Vision based** attendance system.
-🔹 **Full Featured Web App** - Built with Python, Django, FastAPI and Flask.
+🔹 **Autonomous Driving Model** – AI-based reinforcement learning with AWS DeepRacer
+🔹 **Domain-Specific AI Model** – Fine-tuned Meta Llama 2 7B for medical applications
+🔹 **Face Recognition Attendance System** – Backend with Python & Computer Vision
+🔹 **Full-Featured Web App** – Built with Django, FastAPI, Flask
+🔹 **Intellitrex | Crypto Analytics** – Full-stack platform with Django & React
+🔹 **Medical Voice Assistant** – AI assistant with Amazon Bedrock & Django REST
+ 
+
 
 ---
 
