@@ -23,7 +23,21 @@ I am a Computer Science graduate and AI Engineer with hands-on experience in bui
 🔹 **Intellitrex | Crypto Analytics** – Full-stack platform with Django & React  
 🔹 **Medical Voice Assistant** – AI assistant with Amazon Bedrock & Django REST  
 
- 
+ ---
+
+## 🎓 **Certifications**
+
+- **Introduction to Python Programming for Data Science** – Udacity  
+  Covered Python basics, data types, control structures, functions, and introductory data analysis with Pandas and NumPy.
+
+- **AWS DeepRacer Machine Learning Certification** – Coursera (Stanford.AI)  
+  Focused on Amazon SageMaker, roBERTa, Amazon S3 Buckets, Autopilot, A/B Testing, and Amazon CloudWatch.
+
+- **Generative AI with AWS Nanodegree** – Udacity  
+  Learned LLMs, LangChain, prompt engineering, fine-tuning, AWS Bedrock, and SageMaker integration for generative AI applications.
+
+- **Crash Course on Python** – Great Learning  
+  Covered SQL basics, JOINS, GroupBy, and Triggers.
 
 ---
 
