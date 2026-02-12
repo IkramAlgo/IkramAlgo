@@ -1,51 +1,93 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=University+of+the+Punjab;Machine+Learning+%7C+AI+%7C+Data+Science;Ikram+Ullah+Khan)](https://git.io/typing-svg)
----
 
-## 💫 **About Me**
-I am a Computer Science graduate and AI Engineer with hands-on experience in building and deploying AI solutions, including LLM-powered applications, voice assistants, and predictive analytics using AWS SageMaker. I enjoy working on projects that combine cutting-edge AI technologies with real-world applications. Currently, I am focusing on improving AI product performance and exploring new applications of generative AI. I am always eager to collaborate on AI and machine learning projects. For any queries or collaboration, feel free to reach out via email. 
 
 ---
 
-## 🛠️ **Skills & Technologies**
-- **Languages:** Python (NumPy, Pandas, Plotly), JavaScript
-- **AI/ML Tools:** TensorFlow, PyTorch, Scikit-Learn, Hugging Face & Transformers, LangChain, OpenCV, DeepFace
-- **Web Frameworks:** Flask, FastAPI, Django
-- **Cloud & DevOps:** AWS (Bedrock, Lambda, S3, SageMaker), Git & GitHub, Docker
-- **Databases:** MySQL, PostgreSQL
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=Applied+AI+%26+Machine+Learning+Engineer;Industrial+AI+%7C+MLOps+%7C+Simulation;Ikram+Ullah+Khan)](https://git.io/typing-svg)
 
 ---
 
-## 📂 **Projects**
-🔹 **Autonomous Driving Model** – AI-based reinforcement learning with AWS DeepRacer  
-🔹 **Domain-Specific AI Model** – Fine-tuned Meta Llama 2 7B for medical applications  
-🔹 **Face Recognition Attendance System** – Backend with Python & Computer Vision  
-🔹 **Full-Featured Web App** – Built with Django, FastAPI, Flask  
-🔹 **Intellitrex | Crypto Analytics** – Full-stack platform with Django & React  
-🔹 **Medical Voice Assistant** – AI assistant with Amazon Bedrock & Django REST  
+## 💫 About Me
 
- ---
+I am an **Applied AI & Machine Learning Engineer** with hands-on experience in **industrial simulation, MLOps, automation, and digitalization** across automotive and construction domains. I build and deploy ML solutions that **solve engineering challenges, optimize industrial processes, and support sustainable systems**.
 
-## 🎓 **Certifications**
-
-- **Introduction to Python Programming for Data Science** – Udacity  
-  Covered Python basics, data types, control structures, functions, and introductory data analysis with Pandas and NumPy.
-
-- **AWS DeepRacer Machine Learning Certification** – Coursera (Stanford.AI)  
-  Focused on Amazon SageMaker, roBERTa, Amazon S3 Buckets, Autopilot, A/B Testing, and Amazon CloudWatch.
-
-- **Generative AI with AWS Nanodegree** – Udacity  
-  Learned LLMs, LangChain, prompt engineering, fine-tuning, AWS Bedrock, and SageMaker integration for generative AI applications.
-
-- **Crash Course on Python** – Great Learning  
-  Covered SQL basics, JOINS, GroupBy, and Triggers.
+Currently, I am focusing on **R&D in industrial AI, predictive maintenance, generative AI, and scalable AI workflows**. I am open to **collaborations, MSc pathways, and industrial AI trainee roles**.
 
 ---
 
-## 📬 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ikramkhan)  
-[![Email](https://img.shields.io/badge/Email-developerikram@gmail.com-red?style=flat&logo=gmail)](mailto:developerikram@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/923080047065)  
+## 🛠️ Core Focus Areas
+
+* Industrial AI & Simulation-driven ML
+* Predictive Maintenance & Digital Twins
+* NLP Automation & Generative AI
+* MLOps & Scalable AI Workflows
 
 ---
 
-Feel free to explore my repositories and reach out for collaboration! 🚀  
+## 🛠️ Skills
+
+**Programming & ML:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, Generative AI
+**Data & Cloud:** SQL & NoSQL, Apache Superset, AWS (Lambda, API Gateway), Scaleway
+**DevOps & Tools:** Prefect, Docker, GitHub CI/CD, FastAPI, ML Pipelines & Deployment
+
+---
+
+## 💼 Experience
+
+**Applied AI Engineer (Contract)** – Neodustria, Limassol, Cyprus | 09/2025 – 01/2026
+
+* Designed and deployed industrial AI simulation scenarios for automotive & construction, improving predictive maintenance accuracy by **25%**
+* Built Prefect-based automation workflows, reducing manual orchestration by **50+ hours/month**
+* Containerized ML workloads with Docker and deployed via GitHub CI/CD for faster production
+* Translated engineering principles into structured datasets, enhancing model performance by **20%**
+
+**Junior AI Engineer (Procurement Automation)** – Zyeron, Karachi, Pakistan | 07/2024 – 08/2024
+
+* Prepared datasets for AI-driven procurement automation, boosting model prediction accuracy by **18%**
+* Developed ML & deep learning models for text classification and predictive analytics
+* Built and deployed REST APIs using FastAPI, serving AI predictions to production
+
+---
+
+## 📂 Projects
+
+**AI Attendance Management System** – Automated classroom attendance using OpenCV & face recognition (95% accuracy)
+
+**Industrial AI Scenario Modeling** – ML pipelines for seismic drift & brake analytics, improving efficiency by **18%**
+
+**AI Agent Analysis (NLP + GPT Automation)** – GPT-powered workflow on AWS Lambda & API Gateway, reducing manual evaluation time by **40%**
+
+**Nova Voice Assistant (Speech + LLM Automation)** – Lightweight voice assistant integrating speech-to-text & GPT intent handling, achieving **85% task completion accuracy**
+
+---
+
+## 🎓 Education
+
+**BS in Computer Science** – University of the Punjab, Pakistan | 2020–2024
+
+---
+
+## 📜 Certifications
+
+* Machine Learning Crash Course – Google AI
+* Machine Learning & Practical Data Science – Stanford (Coursera)
+* SQL for Data Science – Great Learning
+* Generative AI & LLM Fundamentals – Self-Directed
+
+---
+
+## 📰 Publications
+
+**Stochastic Computing Neural Network Approach for Chikungunya Transmission Dynamics** – Manuscript under review (Engineering Reports, Wiley)
+
+* Co-authored with international collaborators, integrating **stochastic neural networks, Bayesian regularization, and AI for epidemiological modeling**
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ikramkhan101)
+[![Email](https://img.shields.io/badge/Email-ikramkhan.research@outlook.com-red?style=flat\&logo=gmail)](mailto:ikramkhan.research@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-IkramAlgo-black?style=flat\&logo=github)](https://github.com/IkramAlgo)
+
+---
+
