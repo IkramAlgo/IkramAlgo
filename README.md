@@ -1,123 +1,116 @@
 ---
 
-<h1 align="center">Ikram Ullah Khan</h1>
-<h3 align="center">Applied AI Engineer | Industrial AI • MLOps • Simulation • Quantum ML</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ikramkhan101">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-  </a>
-  <a href="mailto:ikramkhan.research@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
-  </a>
-  <a href="https://github.com/IkramAlgo">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Applied+AI+%26+Machine+Learning+Engineer;Industrial+AI+%7C+MLOps+%7C+Simulation+%7C+Quantum+ML;Ikram+Ullah+Khan)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-Applied AI & Machine Learning Engineer focused on **industrial AI systems, simulation-driven modeling, and scalable ML pipelines**.
+I am an **Applied AI & Machine Learning Engineer** focused on building **production-grade AI systems for industrial environments**, combining **machine learning, simulation, and scalable MLOps pipelines**.
 
-- Built **production ML systems** across automotive & construction domains  
-- Improved predictive maintenance performance by **25%**  
-- Automated ML workflows saving **50+ hours/month** using Prefect  
-- Experience across **end-to-end ML lifecycle** (data → model → deployment)  
+My work spans **automotive and construction domains**, where I design and deploy end-to-end ML systems from data engineering to production deployment. At Neodustria, I improved predictive maintenance performance by **25%** and reduced operational overhead by **50+ hours/month** through automated ML orchestration.
 
-📌 Research focus:  
-**Industrial AI • Digital Twins • MLOps • Quantum Machine Learning (NISQ systems)**  
+I also work at the intersection of **AI research and quantum machine learning**, with a recent **IEEE/IFIP DSN Workshops 2026 (FORCE) acceptance** for my work on **Quantum GANs applied to EEG-based sleep modeling on IBM Quantum hardware**.
 
-📌 Currently open to:  
-**MSc programs | Research collaborations | Industrial AI roles**
+Currently, I am seeking **research collaborations, MSc opportunities, and industrial AI roles in applied ML and intelligent systems**.
 
 ---
 
-## 🧪 Research Highlight
+## 🧠 Core Focus Areas
 
-### ⚛️ Quantum GAN for EEG Modeling (FORCE 2026 — Accepted)
-
-- First-author paper at **IEEE/IFIP DSN Workshops 2026**
-- Developed **6-qubit hybrid QGAN** (PennyLane + Qiskit)
-- Executed on **IBM Quantum hardware (QPU)**
-- Achieved:
-  - **71% improvement in StdMAE (best: 0.064)**
-  - Demonstrated **noise-induced regularization in NISQ systems**
-
-🔗 https://github.com/IkramAlgo/QGAN-Sleep-EEG  
+- Industrial AI & Simulation-driven Machine Learning  
+- Predictive Maintenance & Digital Twin Systems  
+- MLOps & Production ML Infrastructure  
+- Quantum Machine Learning & Hybrid AI Systems  
+- Automation-driven AI Workflows  
 
 ---
 
-## 💼 Experience
+## 🛠️ Technical Skills
 
-### 🏭 Applied AI Engineer — Neodustria (Cyprus)  
-**Sep 2025 – Jan 2026**
+**Machine Learning & AI**  
+Python, PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, CNNs, GANs  
 
-- Designed industrial AI simulation systems  
-- Improved predictive maintenance accuracy by **25%**  
-- Built Prefect pipelines (**–50+ hrs/month manual work**)  
-- Deployed ML systems via Docker + GitHub CI/CD  
-- Increased model performance by **20%** through domain-aware data design  
+**Deep Learning & Advanced AI**  
+Transformers, LLMs (GPT), Autoencoders, Self-supervised Learning  
 
----
-
-### 🤖 Junior AI Engineer — Zyeron (Pakistan)  
-**Jul 2024 – Aug 2025**
-
-- Built ML models for procurement automation (**+18% accuracy**)  
-- Developed NLP pipelines & predictive analytics  
-- Deployed APIs using FastAPI  
-
----
-
-### 🔬 Research Collaboration — University of Texas at San Antonio (USA)  
-**Jan 2026 – Present**
-
-- Hybrid quantum-classical ML for EEG classification  
-- Experiments on **IBM Quantum systems**  
-- Research on **noise mitigation in NISQ environments**
-
----
-
-## 🚀 Key Projects
-
-### 🏭 Industrial AI Scenario Modeling
-- Seismic drift + brake analytics pipelines  
-- Improved operational efficiency by **18%**
-
----
-
-### 🧠 HFO-Recover (Ongoing)
-- Self-supervised EEG signal recovery  
-- Physics-informed + sleep-stage-aware modeling  
-🔗 https://github.com/IkramAlgo/hfo-recover  
-
----
-
-## 🛠️ Tech Stack
-
-**ML & AI**  
-Python • PyTorch • TensorFlow • Scikit-learn • OpenCV • GANs • CNNs  
+**Cloud & Data Systems**  
+AWS (Lambda, API Gateway), Scaleway, SQL, NoSQL, Apache Superset  
 
 **MLOps & Deployment**  
-Docker • Prefect • GitHub CI/CD • FastAPI  
+Docker, GitHub CI/CD, Prefect, FastAPI, ML Pipelines  
 
-**Cloud & Data**  
-AWS Lambda • API Gateway • SQL • NoSQL • Scaleway  
+**NLP & Agentic AI**  
+Text Classification, Summarization, RAG Systems, Agent-based Pipelines  
 
-**Advanced AI**  
-Transformers • LLMs • RAG • Agentic Systems • Self-supervised Learning  
+---
+
+## 💼 Professional Experience
+
+### 🏭 Applied AI Engineer (Contract) — Neodustria, Cyprus  
+**Sep 2025 – Jan 2026**
+
+- Designed industrial AI simulation systems for automotive & construction domains  
+- Improved predictive maintenance accuracy by **25%**  
+- Built Prefect-based ML orchestration pipelines, reducing manual workload by **50+ hours/month**  
+- Containerized ML systems with Docker and deployed via GitHub CI/CD  
+- Improved model performance by **20%** through structured domain data engineering  
+
+---
+
+### 🤖 Junior AI Engineer — Zyeron, Pakistan  
+**Jul 2024 – Aug 2025**
+
+- Developed ML models for procurement automation systems (**+18% accuracy**)  
+- Built NLP pipelines for classification and predictive analytics  
+- Deployed production-ready REST APIs using FastAPI  
+
+---
+
+### 🔬 Research Collaboration (First Author, Quantum ML) — UT San Antonio, USA  
+**Jan 2026 – Present**
+
+- Developed a **hybrid quantum-classical GAN (QGAN)** for EEG-based sleep stage classification  
+- Paper accepted at **FORCE 2026 (IEEE/IFIP DSN Workshops)**  
+- Executed experiments on **IBM Quantum hardware (QPU)**  
+- Ongoing research on **noise robustness and NISQ-era quantum learning systems**  
+
+---
+
+## 📂 Flagship Projects
+
+### ⚛️ Quantum GAN for EEG Classification (FORCE 2026 — Accepted)
+- 6-qubit hybrid QGAN built using **PennyLane + Qiskit**  
+- Benchmarked against classical GANs (noisy vs noiseless environments)  
+- Achieved **71% improvement in StdMAE (best: 0.064)**  
+- Demonstrated **noise-induced regularization in NISQ systems**  
+- Fully QPU-compatible pipeline (IBM Quantum Runtime)  
+- 🔗 https://github.com/IkramAlgo/QGAN-Sleep-EEG  
+
+---
+
+### 🏭 Industrial AI Scenario Modeling
+- Built ML pipelines for seismic drift & brake system analytics  
+- Improved operational efficiency by **18%**  
+- Focused on simulation-driven predictive maintenance  
+
+---
+
+### 🧠 HFO-Recover (Ongoing Research Project)
+- Self-supervised EEG recovery framework for high-frequency oscillations  
+- Physics-informed + sleep-stage-aware modeling  
+- Collaborative neuroscience-AI research project  
+- 🔗 https://github.com/IkramAlgo/hfo-recover  
 
 ---
 
 ## 📰 Publications
 
-- **Quantum GANs for EEG Classification**  
-  → *IEEE/IFIP DSN Workshops (FORCE 2026) — Accepted*
+- **Quantum GANs for EEG-Based Sleep Stage Classification**  
+  *Accepted at IEEE/IFIP DSN Workshops (FORCE 2026)*  
 
-- **Chikungunya Transmission Modeling (AI-based)**  
-  → *Under review — Engineering Reports (Wiley)*  
+- **Stochastic Computing Neural Networks for Chikungunya Dynamics**  
+  *Under review — Engineering Reports (Wiley)*  
 
 ---
 
@@ -128,18 +121,27 @@ University of the Punjab, Pakistan (2020 – 2024)
 
 ---
 
+## 📜 Certifications
+
+- Google Machine Learning Crash Course  
+- Stanford Machine Learning & Practical Data Science (Coursera)  
+- Generative AI & LLM Fundamentals  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IkramAlgo&show_icons=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkramAlgo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IkramAlgo&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkramAlgo" height="170"/>
 </p>
 
 ---
 
-## 📬 Contact
+## 📬 Connect with Me
 
-📧 ikramkhan.research@outlook.com  
-🌍 Open to relocation  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ikramkhan101)  
+[![Email](https://img.shields.io/badge/Email-ikramkhan.research@outlook.com-red?style=flat&logo=gmail)](mailto:ikramkhan.research@outlook.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-IkramAlgo-black?style=flat&logo=github)](https://github.com/IkramAlgo)
 
 ---
