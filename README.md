@@ -138,10 +138,3 @@ University of the Punjab, Pakistan (2020 – 2024)
 
 ---
 
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikram-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ikramkhan101)  
-[![Email](https://img.shields.io/badge/Email-ikramkhan.research@outlook.com-red?style=flat&logo=gmail)](mailto:ikramkhan.research@outlook.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-IkramAlgo-black?style=flat&logo=github)](https://github.com/IkramAlgo)
-
----
